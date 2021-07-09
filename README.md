@@ -7,4 +7,4 @@ Run 2020/genetico.py and try it yourself.
 ![](examples/first_gen.gif)
 
 ## Twentieth Generation
-![](examples/examples.gif)
+![](examples/twentieth_gen.gif.gif)
