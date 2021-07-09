@@ -244,7 +244,7 @@ def mostrar_melhor_individuo(jogo, populacao, fitness):
 #      Eles estão aqui para facilitar a visualização do algoritmo.
 
 num_geracoes = 100
-jogo = DinoGame(fps=0)
+jogo = DinoGame(fps=120)
 
 # Crie a população usando populacao_aleatoria(NUM_INDIVIDUOS)
 populacao = populacao_aleatoria(NUM_INDIVIDUOS)
