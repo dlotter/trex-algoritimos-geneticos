@@ -1,2 +1,10 @@
 # trex-algoritmos-geneticos
-Repositório dedicado a armazenar projeto do algogen trex run
+Repository for a genetic algorithm that plays Google's Trex game, made from scratch.
+
+Run 2020/genetico.py and try it yourself.
+
+## First Generation
+![](examples/first_gen.gif)
+
+## Twentieth Generation
+![](examples/examples.gif)
